@@ -1,0 +1,950 @@
+[api-updater (non-obsolete-error-filter)] 8/20/2021 4:24:12 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 566.198ms
+moved types parse time: 196ms
+candidates parse time : 3ms
+C# parse time         : 929ms
+candidates check time : 124ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/21/2021 4:30:16 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 617.528ms
+moved types parse time: 188ms
+candidates parse time : 3ms
+C# parse time         : 845ms
+candidates check time : 152ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/21/2021 6:49:38 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 643.612ms
+moved types parse time: 180ms
+candidates parse time : 3ms
+C# parse time         : 907ms
+candidates check time : 129ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/21/2021 11:23:33 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 753.151ms
+moved types parse time: 193ms
+candidates parse time : 4ms
+C# parse time         : 1165ms
+candidates check time : 215ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 8/22/2021 7:41:23 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 601.164ms
+moved types parse time: 167ms
+candidates parse time : 3ms
+C# parse time         : 873ms
+candidates check time : 103ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/22/2021 7:47:38 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 143.493ms
+moved types parse time: 166ms
+candidates parse time : 4ms
+C# parse time         : 788ms
+candidates check time : 101ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 8/22/2021 7:48:14 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159.835ms
+moved types parse time: 168ms
+candidates parse time : 4ms
+C# parse time         : 783ms
+candidates check time : 99ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/24/2021 5:35:49 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 519.587ms
+moved types parse time: 232ms
+candidates parse time : 5ms
+C# parse time         : 923ms
+candidates check time : 125ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/24/2021 5:36:26 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 141.456ms
+moved types parse time: 156ms
+candidates parse time : 3ms
+C# parse time         : 924ms
+candidates check time : 136ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/24/2021 6:23:58 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.682ms
+moved types parse time: 154ms
+candidates parse time : 3ms
+C# parse time         : 782ms
+candidates check time : 196ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/24/2021 6:25:04 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.666ms
+moved types parse time: 157ms
+candidates parse time : 3ms
+C# parse time         : 791ms
+candidates check time : 137ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/26/2021 4:03:09 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 555.911ms
+moved types parse time: 175ms
+candidates parse time : 3ms
+C# parse time         : 1004ms
+candidates check time : 162ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/26/2021 4:33:53 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 151.084ms
+moved types parse time: 158ms
+candidates parse time : 3ms
+C# parse time         : 728ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/28/2021 12:01:12 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 590.719ms
+moved types parse time: 178ms
+candidates parse time : 4ms
+C# parse time         : 880ms
+candidates check time : 120ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/28/2021 12:41:33 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 148.237ms
+moved types parse time: 160ms
+candidates parse time : 3ms
+C# parse time         : 864ms
+candidates check time : 227ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 8/28/2021 12:41:50 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 148.958ms
+moved types parse time: 162ms
+candidates parse time : 4ms
+C# parse time         : 858ms
+candidates check time : 158ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/28/2021 3:30:25 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1039.676ms
+moved types parse time: 176ms
+candidates parse time : 4ms
+C# parse time         : 1031ms
+candidates check time : 126ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/28/2021 9:27:29 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 509.567ms
+moved types parse time: 218ms
+candidates parse time : 3ms
+C# parse time         : 986ms
+candidates check time : 153ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/28/2021 9:28:00 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 155.101ms
+moved types parse time: 156ms
+candidates parse time : 3ms
+C# parse time         : 772ms
+candidates check time : 98ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/29/2021 10:42:29 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 848.226ms
+moved types parse time: 169ms
+candidates parse time : 6ms
+C# parse time         : 990ms
+candidates check time : 129ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 8/29/2021 10:42:48 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.082ms
+moved types parse time: 160ms
+candidates parse time : 3ms
+C# parse time         : 774ms
+candidates check time : 136ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/1/2021 8:52:38 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 904.498ms
+moved types parse time: 191ms
+candidates parse time : 3ms
+C# parse time         : 1006ms
+candidates check time : 116ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 12:55:09 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 833.836ms
+moved types parse time: 189ms
+candidates parse time : 3ms
+C# parse time         : 898ms
+candidates check time : 105ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 12:55:45 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.477ms
+moved types parse time: 156ms
+candidates parse time : 3ms
+C# parse time         : 734ms
+candidates check time : 106ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 7:02:45 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 777.688ms
+moved types parse time: 192ms
+candidates parse time : 4ms
+C# parse time         : 1421ms
+candidates check time : 102ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 7:06:20 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 152.273ms
+moved types parse time: 159ms
+candidates parse time : 3ms
+C# parse time         : 767ms
+candidates check time : 117ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 7:21:53 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 141.154ms
+moved types parse time: 158ms
+candidates parse time : 3ms
+C# parse time         : 799ms
+candidates check time : 115ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 6:57:16 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 601.58ms
+moved types parse time: 186ms
+candidates parse time : 3ms
+C# parse time         : 905ms
+candidates check time : 187ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 5:15:45 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 741.309ms
+moved types parse time: 185ms
+candidates parse time : 4ms
+C# parse time         : 1138ms
+candidates check time : 130ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 5:52:36 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 166.355ms
+moved types parse time: 157ms
+candidates parse time : 3ms
+C# parse time         : 782ms
+candidates check time : 135ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 6:34:30 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.431ms
+moved types parse time: 158ms
+candidates parse time : 4ms
+C# parse time         : 714ms
+candidates check time : 211ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 8:41:14 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 179.16ms
+moved types parse time: 159ms
+candidates parse time : 3ms
+C# parse time         : 742ms
+candidates check time : 141ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 2:44:41 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 619.804ms
+moved types parse time: 184ms
+candidates parse time : 6ms
+C# parse time         : 961ms
+candidates check time : 174ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 2:45:56 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 149.337ms
+moved types parse time: 159ms
+candidates parse time : 3ms
+C# parse time         : 824ms
+candidates check time : 158ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 11:10:15 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 604.541ms
+moved types parse time: 180ms
+candidates parse time : 3ms
+C# parse time         : 866ms
+candidates check time : 129ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 11:55:52 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 155.564ms
+moved types parse time: 157ms
+candidates parse time : 3ms
+C# parse time         : 803ms
+candidates check time : 237ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 11:56:15 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.91ms
+moved types parse time: 157ms
+candidates parse time : 3ms
+C# parse time         : 773ms
+candidates check time : 181ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 11:56:33 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.068ms
+moved types parse time: 211ms
+candidates parse time : 3ms
+C# parse time         : 1072ms
+candidates check time : 181ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:00:20 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 726.904ms
+moved types parse time: 234ms
+candidates parse time : 5ms
+C# parse time         : 2386ms
+candidates check time : 168ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 12:22:16 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 650.239ms
+moved types parse time: 184ms
+candidates parse time : 4ms
+C# parse time         : 804ms
+candidates check time : 121ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/8/2021 12:01:00 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 674.452ms
+moved types parse time: 179ms
+candidates parse time : 3ms
+C# parse time         : 877ms
+candidates check time : 195ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/8/2021 2:05:16 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 517.856ms
+moved types parse time: 169ms
+candidates parse time : 4ms
+C# parse time         : 861ms
+candidates check time : 148ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/14/2021 1:15:55 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 629.111ms
+moved types parse time: 189ms
+candidates parse time : 3ms
+C# parse time         : 999ms
+candidates check time : 140ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/27/2021 11:24:46 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 642.899ms
+moved types parse time: 190ms
+candidates parse time : 4ms
+C# parse time         : 952ms
+candidates check time : 169ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/30/2021 11:15:05 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 707.553ms
+moved types parse time: 177ms
+candidates parse time : 3ms
+C# parse time         : 805ms
+candidates check time : 110ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/30/2021 11:19:13 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.291ms
+moved types parse time: 165ms
+candidates parse time : 3ms
+C# parse time         : 817ms
+candidates check time : 153ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/1/2021 2:59:41 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 708.242ms
+moved types parse time: 244ms
+candidates parse time : 4ms
+C# parse time         : 998ms
+candidates check time : 163ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/3/2021 2:21:57 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 545.964ms
+moved types parse time: 179ms
+candidates parse time : 3ms
+C# parse time         : 880ms
+candidates check time : 132ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/3/2021 3:52:22 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 663.504ms
+moved types parse time: 169ms
+candidates parse time : 4ms
+C# parse time         : 960ms
+candidates check time : 148ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 10/3/2021 10:04:14 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 591.165ms
+moved types parse time: 188ms
+candidates parse time : 3ms
+C# parse time         : 991ms
+candidates check time : 159ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/3/2021 10:51:43 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163.379ms
+moved types parse time: 158ms
+candidates parse time : 3ms
+C# parse time         : 787ms
+candidates check time : 157ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/3/2021 10:52:07 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.365ms
+moved types parse time: 165ms
+candidates parse time : 3ms
+C# parse time         : 876ms
+candidates check time : 176ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/3/2021 11:03:46 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 182.436ms
+moved types parse time: 159ms
+candidates parse time : 3ms
+C# parse time         : 769ms
+candidates check time : 201ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/3/2021 11:39:54 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 474.077ms
+moved types parse time: 183ms
+candidates parse time : 3ms
+C# parse time         : 916ms
+candidates check time : 135ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/3/2021 11:40:16 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.411ms
+moved types parse time: 159ms
+candidates parse time : 3ms
+C# parse time         : 760ms
+candidates check time : 121ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 10/4/2021 2:07:55 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 665.045ms
+moved types parse time: 205ms
+candidates parse time : 16ms
+C# parse time         : 1160ms
+candidates check time : 286ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 4:50:45 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 694.707ms
+moved types parse time: 166ms
+candidates parse time : 3ms
+C# parse time         : 1040ms
+candidates check time : 222ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 4:54:17 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 354.191ms
+moved types parse time: 157ms
+candidates parse time : 3ms
+C# parse time         : 785ms
+candidates check time : 182ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 5:47:05 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.086ms
+moved types parse time: 159ms
+candidates parse time : 3ms
+C# parse time         : 766ms
+candidates check time : 169ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 5:47:43 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 202.213ms
+moved types parse time: 160ms
+candidates parse time : 3ms
+C# parse time         : 778ms
+candidates check time : 171ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 5:48:32 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 179.762ms
+moved types parse time: 161ms
+candidates parse time : 3ms
+C# parse time         : 823ms
+candidates check time : 180ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 8:02:05 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 631.905ms
+moved types parse time: 180ms
+candidates parse time : 3ms
+C# parse time         : 940ms
+candidates check time : 556ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 8:04:24 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 184.299ms
+moved types parse time: 158ms
+candidates parse time : 3ms
+C# parse time         : 817ms
+candidates check time : 431ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 8:32:22 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 626.068ms
+moved types parse time: 171ms
+candidates parse time : 3ms
+C# parse time         : 826ms
+candidates check time : 104ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 8:33:53 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.576ms
+moved types parse time: 157ms
+candidates parse time : 6ms
+C# parse time         : 677ms
+candidates check time : 140ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 8:50:17 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 153.925ms
+moved types parse time: 161ms
+candidates parse time : 3ms
+C# parse time         : 651ms
+candidates check time : 106ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 9:13:16 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 210.192ms
+moved types parse time: 168ms
+candidates parse time : 3ms
+C# parse time         : 722ms
+candidates check time : 119ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 9:13:35 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.679ms
+moved types parse time: 163ms
+candidates parse time : 3ms
+C# parse time         : 702ms
+candidates check time : 120ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/15/2021 4:37:59 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 707.881ms
+moved types parse time: 189ms
+candidates parse time : 3ms
+C# parse time         : 1034ms
+candidates check time : 201ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 10/20/2021 3:35:38 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 829.469ms
+moved types parse time: 189ms
+candidates parse time : 3ms
+C# parse time         : 884ms
+candidates check time : 159ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/20/2021 3:36:09 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.505ms
+moved types parse time: 160ms
+candidates parse time : 4ms
+C# parse time         : 744ms
+candidates check time : 123ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2021 7:53:19 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 733.903ms
+moved types parse time: 193ms
+candidates parse time : 6ms
+C# parse time         : 878ms
+candidates check time : 140ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 10/23/2021 7:54:56 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 156.986ms
+moved types parse time: 155ms
+candidates parse time : 3ms
+C# parse time         : 688ms
+candidates check time : 108ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 1:12:55 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 599.411ms
+moved types parse time: 172ms
+candidates parse time : 4ms
+C# parse time         : 783ms
+candidates check time : 116ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 4:03:14 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 888.185ms
+moved types parse time: 191ms
+candidates parse time : 3ms
+C# parse time         : 911ms
+candidates check time : 148ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 4:05:44 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 140.824ms
+moved types parse time: 158ms
+candidates parse time : 3ms
+C# parse time         : 685ms
+candidates check time : 187ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 4:58:07 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 863.293ms
+moved types parse time: 183ms
+candidates parse time : 4ms
+C# parse time         : 970ms
+candidates check time : 153ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 4:58:20 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.597ms
+moved types parse time: 178ms
+candidates parse time : 3ms
+C# parse time         : 711ms
+candidates check time : 143ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 4:58:33 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 153.659ms
+moved types parse time: 174ms
+candidates parse time : 4ms
+C# parse time         : 867ms
+candidates check time : 160ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 4:59:39 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 166.718ms
+moved types parse time: 159ms
+candidates parse time : 3ms
+C# parse time         : 749ms
+candidates check time : 202ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 5:01:09 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 152.336ms
+moved types parse time: 159ms
+candidates parse time : 4ms
+C# parse time         : 720ms
+candidates check time : 137ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 5:01:49 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.926ms
+moved types parse time: 162ms
+candidates parse time : 3ms
+C# parse time         : 748ms
+candidates check time : 148ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 11/3/2021 5:35:27 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 533.065ms
+moved types parse time: 223ms
+candidates parse time : 4ms
+C# parse time         : 903ms
+candidates check time : 135ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/4/2021 6:32:25 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1973.282ms
+moved types parse time: 187ms
+candidates parse time : 4ms
+C# parse time         : 963ms
+candidates check time : 118ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 11/4/2021 11:52:26 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 742.663ms
+moved types parse time: 242ms
+candidates parse time : 3ms
+C# parse time         : 968ms
+candidates check time : 151ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/4/2021 11:54:13 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 596.666ms
+moved types parse time: 165ms
+candidates parse time : 3ms
+C# parse time         : 743ms
+candidates check time : 130ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/4/2021 11:54:44 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 143.071ms
+moved types parse time: 161ms
+candidates parse time : 3ms
+C# parse time         : 703ms
+candidates check time : 122ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/4/2021 11:55:11 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.775ms
+moved types parse time: 170ms
+candidates parse time : 3ms
+C# parse time         : 854ms
+candidates check time : 154ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 11/4/2021 11:55:19 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 168.469ms
+moved types parse time: 167ms
+candidates parse time : 3ms
+C# parse time         : 948ms
+candidates check time : 169ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 11/5/2021 12:21:54 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 892.27ms
+moved types parse time: 939ms
+candidates parse time : 3ms
+C# parse time         : 2603ms
+candidates check time : 100ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/5/2021 12:41:07 AM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1287.86ms
+moved types parse time: 188ms
+candidates parse time : 3ms
+C# parse time         : 1471ms
+candidates check time : 101ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/5/2021 6:47:31 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 710.092ms
+moved types parse time: 193ms
+candidates parse time : 3ms
+C# parse time         : 839ms
+candidates check time : 100ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/5/2021 7:10:56 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 584.621ms
+moved types parse time: 254ms
+candidates parse time : 4ms
+C# parse time         : 991ms
+candidates check time : 141ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/5/2021 7:11:40 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 153.053ms
+moved types parse time: 180ms
+candidates parse time : 3ms
+C# parse time         : 806ms
+candidates check time : 135ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/5/2021 7:35:17 PM : Starting /home/spiderman/Downloads/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 680.127ms
+moved types parse time: 177ms
+candidates parse time : 4ms
+C# parse time         : 1286ms
+candidates check time : 116ms
+console write time    : 3ms
+
