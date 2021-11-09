@@ -12,6 +12,7 @@ public class TitleScreen : MonoBehaviour
     public GameObject m_TitleHUD;
     public GameObject m_StageSelectHUD;
     public GameObject m_LoadingCanvas;
+    [SerializeField] private GameObject m_FadeIn;
 
     [Header("Player Components")]
     public GameObject m_PlayerScooter;
@@ -29,13 +30,16 @@ public class TitleScreen : MonoBehaviour
         m_TitleHUD.SetActive(true);
         m_StageSelectHUD.SetActive(false);
         m_LoadingCanvas.SetActive(false);
+        m_FadeIn.SetActive(false);
 
         if(GameManager.instance.m_GameStarted)
         {
             m_TitleHUD.SetActive(false);
+            m_FadeIn.SetActive(true);
 
             if(GameManager.instance.m_PlayerHasDied)
             {
+                m_FadeIn.SetActive(false);
                 m_PlayerScooter.transform.position = new Vector2(-7, m_PlayerScooter.transform.position.y);
                 StartCoroutine("PlayerRevives");
             }

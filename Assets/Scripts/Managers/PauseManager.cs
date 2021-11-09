@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class PauseManager : MenuController
 {
-    [Header("Pause Components")]
     public static PauseManager instance;
-    public GameObject m_PauseCanvas;
+
+    [Header("Pause Components")]
     public bool m_IsPaused;
+    public GameObject m_PauseCanvas;
+    [SerializeField] private GameObject m_HudCanvas;
 
     [Header("Audio Components")]
     [SerializeField] private AudioSource m_Audio;
@@ -18,14 +20,17 @@ public class PauseManager : MenuController
     {
         instance = this;
         m_Audio = GetComponent<AudioSource>();
+
+        Init();
     }
 
     void Start()
     {
+        LoadSavedSettings();
         Resume();
+        if(m_PauseCanvas.activeSelf) m_PauseCanvas.SetActive(false);
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Escape))
@@ -42,6 +47,7 @@ public class PauseManager : MenuController
 
         if(m_IsPaused == false) return;
 
+        MenuControls();
         CheckSelected();
     }
 
@@ -52,9 +58,12 @@ public class PauseManager : MenuController
         Time.timeScale = 1f;
         m_IsPaused = false;
         m_PauseCanvas.SetActive(false);
+        m_HudCanvas.SetActive(true);
 
         m_Audio.clip = m_ResumeSound;
         m_Audio.Play();
+        m_AudioMixer.SetFloat("musicVolume", m_MusicSlider.value);
+        GameManager.instance.SaveData();
     }
 
     public void Pause()
@@ -64,16 +73,31 @@ public class PauseManager : MenuController
         Time.timeScale = 0f;
         m_IsPaused = true;
         m_PauseCanvas.SetActive(true);
+        m_HudCanvas.SetActive(false);
+        EnableMainMenu();
 
         m_Audio.clip = m_PauseSound;
         m_Audio.Play();
+        m_AudioMixer.SetFloat("musicVolume", -80f);
 
         Init();
     }
 
-    public void ExitLevel()
+    public override void EnableMainMenu()
+    {
+        base.EnableMainMenu();
+
+        m_HeaderText.text = "Taking a break...";
+        m_AudioMixer.SetFloat("musicVolume", -80f);
+    }
+
+    public override void ExitLevel()
     {
         Time.timeScale = 1f;
-        GameManager.instance.LoadLevel(0);
+        GameObject player = GameObject.FindWithTag("Player");
+        player.GetComponent<Player>().FreezeMovement(true);
+        player.GetComponent<BoxCollider2D>().enabled = false;
+
+        base.ExitLevel();
     }
 }

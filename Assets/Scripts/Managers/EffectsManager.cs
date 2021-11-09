@@ -9,8 +9,9 @@ public class EffectsManager : MonoBehaviour
     [Header("Particle Effects")]
     public GameObject m_BloodParticles;
     public GameObject m_DeathBlood;
-    public GameObject m_Sparkles;
     public GameObject m_Flames;
+    public GameObject m_Sparkles;
+    public GameObject m_Healing;
 
     [Header("Blood Stains")]
     [SerializeField] private GameObject m_BloodStain;

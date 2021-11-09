@@ -26,8 +26,7 @@ public class StageSelect : MonoBehaviour
     public AudioClip m_ScooterVroom;
     public AudioClip[] m_VoiceClips;
 
-    // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         m_StageSelectHUD = TitleScreen.instance.m_StageSelectHUD;
         m_LoadingCanvas = TitleScreen.instance.m_LoadingCanvas;
@@ -35,13 +34,15 @@ public class StageSelect : MonoBehaviour
         m_ScooterAnimator = m_PlayerScooter.GetComponent<Animator>();
 
         m_StageName.text = "";
+    }
 
+    void Start()
+    {
         m_StageSelectHUD.SetActive(true);
         m_ScooterAnimator.SetBool("isLookingUp", true);
         StartCoroutine("UpdateStagePreview");
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.F1))

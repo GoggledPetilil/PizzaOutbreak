@@ -6,12 +6,14 @@ using TMPro;
 
 public class ListScroll : MonoBehaviour
 {
+    protected EventSystem m_EventSystem;
+
     [Header("List Components")]
     public int m_Value;
     public List<string> m_Options = new List<string>();
     [SerializeField] private TMP_Text m_SelectedText;
     protected int m_Selected;
-    protected EventSystem m_EventSystem;
+    protected bool m_ValueChanged;
 
     [Header("Colours")]
     [SerializeField] private Color m_NormalColour;
@@ -77,6 +79,11 @@ public class ListScroll : MonoBehaviour
             m_SelectedText.color = m_NormalColour;
             m_Selected = m_Value;
         }
+
+        if(m_ValueChanged)
+        {
+            m_ValueChanged = false;
+        }
     }
 
     public virtual void SelectionEvent()
@@ -85,5 +92,16 @@ public class ListScroll : MonoBehaviour
 
         m_Value = m_Selected;
         UpdateDisplay();
+    }
+
+    public virtual void LoadSavedSettings()
+    {
+        // Stuff
+    }
+
+    public virtual void SaveSettings()
+    {
+        m_ValueChanged = false;
+        GameManager.instance.SaveData();
     }
 }

@@ -21,6 +21,7 @@ public class HealthItem : MonoBehaviour
             p.RaiseHealth(m_Amount);
             p.PlayHappyVoice();
             GameManager.instance.PlayOneShot(m_PickUpSound);
+            EffectsManager.instance.SpawnParentEffect(EffectsManager.instance.m_Healing, p.transform);
 
             DestroySelf();
         }
