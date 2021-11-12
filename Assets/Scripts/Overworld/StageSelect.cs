@@ -60,6 +60,7 @@ public class StageSelect : MonoBehaviour
             {
                 m_Selected++;
             }
+            GameManager.instance.PlayCursorSFX();
             StartCoroutine("UpdateStagePreview");
         }
         if(Input.GetKey(KeyCode.LeftArrow) && m_CanMove)
@@ -72,6 +73,7 @@ public class StageSelect : MonoBehaviour
             {
                 m_Selected--;
             }
+            GameManager.instance.PlayCursorSFX();
             StartCoroutine("UpdateStagePreview");
         }
         if(Input.GetKeyDown(KeyCode.Z) && m_CanMove)
@@ -79,8 +81,8 @@ public class StageSelect : MonoBehaviour
             m_CanMove = false;
             GameManager.instance.m_GameStarted = true;
             GameManager.instance.m_StageData = m_Stages[m_Selected];
+            GameManager.instance.PlayConfirmSFX();
             StartCoroutine("GoToStage");
-
         }
     }
 

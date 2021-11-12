@@ -8,16 +8,21 @@ public class GameManager : MonoBehaviour
 {
     [Header("GameManager Components")]
     public static GameManager instance;
-    public bool m_GameStarted;    // To indicate that the game has started, skipping the intro.
-    public bool m_PlayerHasDied;  // The player has died.
-    public int m_SettingsChangedLevel; // How many settings have been changed.
-    public Stage m_StageData;
     [SerializeField] private AudioMixer m_AudioMixer;
+    [SerializeField] private Animator m_SaveAnimator;
 
     [Header("Audio Components")]
     [SerializeField] private GameObject m_OneShotAudio;
     [SerializeField] private AudioSource m_Audio;
+    [SerializeField] private AudioClip m_CursorSFX;
     [SerializeField] private AudioClip m_ConfirmSFX;
+    [SerializeField] private AudioClip m_CancelSFX;
+
+    [Header("Game Data")]
+    public bool m_GameStarted;    // To indicate that the game has started, skipping the intro.
+    public bool m_PlayerHasDied;  // The player has died.
+    public int m_SettingsChangedLevel; // How many settings have been changed.
+    public Stage m_StageData;
 
     [Header("Settings Saved Data")]
     public float m_MasterVolume;
@@ -66,9 +71,21 @@ public class GameManager : MonoBehaviour
         go.GetComponent<AudioSource>().clip = clip;
     }
 
+    public void PlayCursorSFX()
+    {
+        m_Audio.clip = m_CursorSFX;
+        m_Audio.Play();
+    }
+
     public void PlayConfirmSFX()
     {
         m_Audio.clip = m_ConfirmSFX;
+        m_Audio.Play();
+    }
+
+    public void PlayCancelSFX()
+    {
+        m_Audio.clip = m_CancelSFX;
         m_Audio.Play();
     }
 
@@ -76,6 +93,8 @@ public class GameManager : MonoBehaviour
     {
         if(m_SettingsChangedLevel < 0) m_SettingsChangedLevel = 0;
         if(m_SettingsChangedLevel <= 0) return;
+
+        m_SaveAnimator.SetTrigger("Saving");
 
         PlayerPrefs.SetFloat("masterVolume", m_MasterVolume);
         PlayerPrefs.SetFloat("musicVolume", m_MusicVolume);
@@ -106,8 +125,5 @@ public class GameManager : MonoBehaviour
         m_AudioMixer.SetFloat("voiceVolume", m_VoiceVolume);
         QualitySettings.SetQualityLevel(m_QualityLevel, false);
         Screen.SetResolution(m_ResolutionWidth, m_ResolutionHeight, m_FullScreen);
-
-        m_SettingsChangedLevel = 1;
-        SaveData();
     }
 }

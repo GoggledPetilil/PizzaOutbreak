@@ -75,6 +75,7 @@ public class MenuController : MonoBehaviour
         if(Input.GetButtonUp("Cancel") && m_MainTab.activeSelf == false)
         {
             EnableMainMenu();
+            GameManager.instance.PlayCancelSFX();
         }
 
         if(m_SettingsTab.activeSelf)
@@ -99,6 +100,11 @@ public class MenuController : MonoBehaviour
         }
     }
 
+    public void CursorSound()
+    {
+        GameManager.instance.PlayCursorSFX();
+    }
+
     public void ConfirmSound()
     {
         GameManager.instance.PlayConfirmSFX();
@@ -113,6 +119,12 @@ public class MenuController : MonoBehaviour
         m_FullScreenToggle.isOn = GameManager.instance.m_FullScreen;
         m_QualityList.LoadSavedSettings();
         m_ResoList.LoadSavedSettings();
+
+        m_ChangedMaster = false;
+        m_ChangedMusic = false;
+        m_ChangedSound = false;
+        m_ChangedVoice = false;
+        GameManager.instance.m_SettingsChangedLevel = 0;
     }
 
     protected void SaveSettings()
@@ -129,6 +141,7 @@ public class MenuController : MonoBehaviour
         m_ChangedMusic = false;
         m_ChangedSound = false;
         m_ChangedVoice = false;
+        GameManager.instance.m_SettingsChangedLevel = 0;
     }
 
     public virtual void EnableMainMenu()
@@ -140,6 +153,8 @@ public class MenuController : MonoBehaviour
 
         m_HeaderText.text = "MAIN MENU";
         m_TitleAnimator.SetTrigger("Change");
+
+        if(GameManager.instance.m_SettingsChangedLevel < 1) return;
 
         SaveSettings();
         GameManager.instance.SaveData();

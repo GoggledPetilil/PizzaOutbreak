@@ -39,9 +39,31 @@ public class EffectsManager : MonoBehaviour
     {
         GameObject go = Instantiate(m_BloodStain, pos, Quaternion.Euler(0.0f, 0.0f, Random.Range(0.0f, 360.0f))) as GameObject;
         m_BloodList.Add(go.transform);
+        UpdateBloodList();
+    }
+
+    public void UpdateBloodList()
+    {
+        int q = GameManager.instance.m_QualityLevel;
+        if(q == 0)
+        {
+            m_MaxBlood = 5;
+        }
+        else if(q == 1)
+        {
+            m_MaxBlood = 30;
+        }
+        else if(q >= 2)
+        {
+            m_MaxBlood = 80;
+        }
+
         if(m_BloodList.Count > m_MaxBlood)
         {
-            m_BloodList[0].GetComponent<Bloodstain>().DeleteSelf();
+            for (int i = m_MaxBlood; i < m_BloodList.Count; i++)
+            {
+                m_BloodList[i].GetComponent<Bloodstain>().DeleteSelf();
+            }
         }
     }
 
